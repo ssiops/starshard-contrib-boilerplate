@@ -1,0 +1,6 @@
+{
+  "name": "sample",
+  "description": "Sharshard application boilerplate",
+  "useDB": "false",
+  "static": "public"
+}
